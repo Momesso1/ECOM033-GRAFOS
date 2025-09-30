@@ -1,4 +1,4 @@
-# Equipe: Lucas Momesso Alves, Arthur Vinicius Ferreira, Vinicius Albuquerque
+## Equipe: Lucas Momesso Alves, Arthur Vinicius Ferreira, Vinicius Albuquerque
    
 # Compilar, por exemplo, o cenário 3.
 
